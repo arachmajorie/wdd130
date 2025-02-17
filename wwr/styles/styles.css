@@ -1,0 +1,29 @@
+header{
+    background-color: aqua;
+    padding: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+p{padding: 0;
+}
+
+aside{
+    margin: 1em;
+    padding: 1em;
+    width:30em;
+    background-color: silver;
+    color: black;
+    text-align: center;
+
+}
+
+aside img{
+    width: 250px;
+    height: auto;
+}
+footer{
+    margin-top: 1em;
+    text-align: center;
+    border-top: 1px;
+}
